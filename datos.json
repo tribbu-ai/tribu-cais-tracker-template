@@ -1,0 +1,23 @@
+[
+  { "nombre": "Lucía Romero",     "departamento": "Tech",         "cais_totales": 4200 },
+  { "nombre": "Diego Salas",      "departamento": "User Success", "cais_totales": 3800 },
+  { "nombre": "Marta Vidal",      "departamento": "UX",           "cais_totales": 3500 },
+  { "nombre": "Hugo Navarro",     "departamento": "Tech",         "cais_totales": 3000 },
+  { "nombre": "Elena Cano",       "departamento": "Marketing",    "cais_totales": 2900 },
+  { "nombre": "Pablo Serrano",    "departamento": "Tech",         "cais_totales": 2800 },
+  { "nombre": "Nuria Gil",        "departamento": "Sin asignar",  "cais_totales": 2700 },
+  { "nombre": "Sergio Marín",     "departamento": "Tech",         "cais_totales": 2600 },
+  { "nombre": "Carla Ortega",     "departamento": "Squad IA",     "cais_totales": 2500 },
+  { "nombre": "Iván Prieto",      "departamento": "Tech",         "cais_totales": 2400 },
+  { "nombre": "Rocío Méndez",     "departamento": "Tech",         "cais_totales": 2200 },
+  { "nombre": "Adrián Lozano",    "departamento": "People",       "cais_totales": 2100 },
+  { "nombre": "Sara Iglesias",    "departamento": "Tech",         "cais_totales": 2000 },
+  { "nombre": "Gonzalo Vega",     "departamento": "Sin asignar",  "cais_totales": 1900 },
+  { "nombre": "Laura Fuentes",    "departamento": "Sin asignar",  "cais_totales": 1700 },
+  { "nombre": "Marcos Pardo",     "departamento": "Sin asignar",  "cais_totales": 1500 },
+  { "nombre": "Beatriz Soler",    "departamento": "Sin asignar",  "cais_totales": 1500 },
+  { "nombre": "Daniel Reyes",     "departamento": "Sin asignar",  "cais_totales": 800 },
+  { "nombre": "Patricia Bravo",   "departamento": "Sin asignar",  "cais_totales": 600 },
+  { "nombre": "Óscar Ramos",      "departamento": "Ops",          "cais_totales": 500 },
+  { "nombre": "Irene Castaño",    "departamento": "Sin asignar",  "cais_totales": 400 }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tribu CAIs Tracker</title>
+
+  <!-- ============================================================= -->
+  <!-- SIN ESTILOS A PROPÓSITO. Esto es un lienzo en blanco.          -->
+  <!-- Pídele a Claude que le dé el diseño que tú quieras             -->
+  <!-- (prueba la skill /frontend-design). Que no se parezca a la     -->
+  <!-- del de al lado: colores, tipografía, layout… hazla tuya.      -->
+  <!-- ============================================================= -->
+</head>
+<body>
+  <h1>Ranking de CAIs · Le Mans</h1>
+  <p>Créditos de IA Eficiente acumulados por persona</p>
+  <table>
+    <thead>
+      <tr><th>#</th><th>Persona</th><th>Departamento</th><th>CAIs</th></tr>
+    </thead>
+    <tbody id="ranking">
+      <tr><td colspan="4">Cargando…</td></tr>
+    </tbody>
+  </table>
+
+  <!-- Cliente Supabase por CDN (sin npm, sin build) -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="app.js"></script>
+</body>
+</html>
